@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "40DEF9A51F3CE1570089629A"
-               BuildableName = "MapboxARKitDemoApp.app"
-               BlueprintName = "MapboxARKitDemoApp"
+               BlueprintIdentifier = "40D722831F3A4F3D00466721"
+               BuildableName = "MapboxARKit.framework"
+               BlueprintName = "MapboxARKit"
                ReferencedContainer = "container:MapboxARKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,13 +29,23 @@
       language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "40D7228C1F3A4F3D00466721"
+               BuildableName = "MapboxARKitTests.xctest"
+               BlueprintName = "MapboxARKitTests"
+               ReferencedContainer = "container:MapboxARKit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "40DEF9A51F3CE1570089629A"
-            BuildableName = "MapboxARKitDemoApp.app"
-            BlueprintName = "MapboxARKitDemoApp"
+            BlueprintIdentifier = "40D722831F3A4F3D00466721"
+            BuildableName = "MapboxARKit.framework"
+            BlueprintName = "MapboxARKit"
             ReferencedContainer = "container:MapboxARKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -52,18 +62,16 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      enableGPUFrameCaptureMode = "1"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "40DEF9A51F3CE1570089629A"
-            BuildableName = "MapboxARKitDemoApp.app"
-            BlueprintName = "MapboxARKitDemoApp"
+            BlueprintIdentifier = "40D722831F3A4F3D00466721"
+            BuildableName = "MapboxARKit.framework"
+            BlueprintName = "MapboxARKit"
             ReferencedContainer = "container:MapboxARKit.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -73,16 +81,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "40DEF9A51F3CE1570089629A"
-            BuildableName = "MapboxARKitDemoApp.app"
-            BlueprintName = "MapboxARKitDemoApp"
+            BlueprintIdentifier = "40D722831F3A4F3D00466721"
+            BuildableName = "MapboxARKit.framework"
+            BlueprintName = "MapboxARKit"
             ReferencedContainer = "container:MapboxARKit.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
